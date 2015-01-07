@@ -1,0 +1,11 @@
+C:\Users\Luke\Desktop\Sorted\Code\C#\Alert\IfClose\obj\Debug\IfClose.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Desktop\Sorted\Code\C#\Alert\IfClose\obj\Debug\IfClose.DotNetService.resources
+C:\Users\Luke\Desktop\Sorted\Code\C#\Alert\IfClose\obj\Debug\IfClose.csproj.GenerateResource.Cache
+C:\Users\Luke\Desktop\Sorted\Code\C#\Alert\IfClose\bin\Debug\IfClose.exe.config
+C:\Users\Luke\Desktop\Sorted\Code\C#\Alert\IfClose\bin\Debug\IfClose.exe
+C:\Users\Luke\Desktop\Sorted\Code\C#\Alert\IfClose\bin\Debug\IfClose.pdb
+C:\Users\Luke\Desktop\Sorted\Code\C#\Alert\IfClose\bin\Debug\Alert.exe
+C:\Users\Luke\Desktop\Sorted\Code\C#\Alert\IfClose\bin\Debug\Alert.pdb
+C:\Users\Luke\Desktop\Sorted\Code\C#\Alert\IfClose\obj\Debug\IfClose.exe
+C:\Users\Luke\Desktop\Sorted\Code\C#\Alert\IfClose\obj\Debug\IfClose.pdb
+C:\Users\Luke\Desktop\Sorted\Code\C#\Alert\IfClose\obj\Debug\IfClose.ProjectInstaller.resources
